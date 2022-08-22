@@ -20,4 +20,5 @@ var product={
         return db.query('update product set product_name=?,product_color=?,product_price=?  where product_id=?',[data.product_name,data.product_color,data.product_price,id],callback); 
     }
 }
+//KOOOWwfhfhfgfgfggc
 module.exports=product;
