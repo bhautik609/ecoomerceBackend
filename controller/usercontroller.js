@@ -67,4 +67,5 @@ const updateparoduct=(req,res)=>{
 }
 // basjkdfbfjkdas
 // gsdahsksdaca?
+// dsbfsdfkjsd?
 module.exports={product,inserproduct,getbyid,delproduct,updateparoduct};
