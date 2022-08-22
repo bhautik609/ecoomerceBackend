@@ -16,7 +16,7 @@ router.delete("/delproduct/:id", delproduct);
 router.patch("/updateproduct/:id", updateparoduct);
 
 
-//userroute
+//userro
 router.get("/getuser",getalluser);
 router.get("/loginuser",userlogin);
 router.get("/loginuser",inseruser);
